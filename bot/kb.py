@@ -34,8 +34,8 @@ fiq_menu = [
             types.InlineKeyboardButton(text="Nike", callback_data="Nike")
         ],
         [
-            types.InlineKeyboardButton(text="Boeing", callback_data="Ford"),
-            types.InlineKeyboardButton(text="Diesel", callback_data="Nike")
+            types.InlineKeyboardButton(text="Boeing", callback_data="Boeing"),
+            types.InlineKeyboardButton(text="Diesel", callback_data="Diesel")
         ],
 ]
 fou_menu = [
