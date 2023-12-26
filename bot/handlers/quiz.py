@@ -72,7 +72,7 @@ async def last_answer(callback: CallbackQuery, state: FSMContext):
     if calculate['answ_2']=='50':
         mark+=1
     
-    if calculate['answ_3']=='Diesel:
+    if calculate['answ_3']=='Diesel':
         mark+=1
     
     if calculate['answ_4']=='9.8':
